@@ -1,3 +1,15 @@
-body {
-    background-color: red;
+.hero,
+footer,
+nav {
+    background-color: #1E2837;
+}
+
+.hero {}
+
+.quotes {
+    background-color: #E4E7EA;
+}
+
+.calltoaction div {
+    background-color: #3A83F6;
 }
