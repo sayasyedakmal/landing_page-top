@@ -39,8 +39,10 @@ a {
 
 .quote {
     background-color: #E4E7EA;
-    padding-left: var(--container-padding);
-    padding-right: var(--container-padding);
+    padding-left: 530px;
+    padding-right: 530px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .calltoaction div {
@@ -158,4 +160,17 @@ nav ul {
     line-height: 120%;
     color: #1f2937;
     font-size: 18px;
+}
+
+.quote-text {
+    text-align: left;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote-author {
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
 }
